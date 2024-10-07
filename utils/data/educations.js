@@ -8,7 +8,7 @@ export const educations = [
   {
     id: 2,
     title: "Secondary School Certificate",
-    duration: "2020 - 2021",
+    duration: "2019 - 2020",
     institution: "The Mews High School",
   }
 ]
