@@ -14,7 +14,7 @@ function AboutSection() {
         <span className="h-36 w-[2px] bg-[#1a1443] border border-purple-950 "></span>
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16">
-        <div className="order-2 lg:order-1">
+        <div className="order-2 lg:order-1 flex flex-col items-start justify-center">
           <p className="font-medium mb-5 text-[#16f2b3] text-xl uppercase">
             Who I am?
           </p>

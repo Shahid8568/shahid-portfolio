@@ -11,5 +11,5 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/shahid-jagora-728846250/',
   twitter: 'https://x.com/Shahid8568',
   devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1UM2KytYYIZ-nS3iqPUS-ReuDQgGoSFpi/view?usp=sharing"
 }
