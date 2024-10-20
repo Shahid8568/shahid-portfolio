@@ -27,7 +27,7 @@ function Education() {
         <div className="flex  items-center">
           <span className="w-16 md:w-24 h-[2px] bg-[#1a1443] border border-purple-950"></span>
           <span className="bg-[#1a1443] w-fit text-white p-2 px-5 text-xl rounded-md border border-purple-950 shadow-[0_0_6px_0px_#7c3aed]">
-            Educations
+            Education
           </span>
           <span className="w-16 md:w-24 h-[2px] bg-[#1a1443] border border-purple-950"></span>
         </div>
